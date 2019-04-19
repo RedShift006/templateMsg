@@ -1,3 +1,5 @@
+** need delete the appId & app-secret， and from token url get token 
+---
 ### 微信小程序-模板消息实例
 #### 1.模板消息是什么？
 - 模板消息是微信为小程序提供的消息推送能力。小程序可以向用户发送重要的消息通知，类似于App的推送通知。
